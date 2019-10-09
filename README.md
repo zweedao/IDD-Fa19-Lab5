@@ -78,6 +78,8 @@ int read_encoder()
 
 ## 3) At least one photo of your box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 
+The lighting in MakerLab's Portable Photo Studio doesn't work, so the picture is a bit dark...
+
 ![Jack photo](/jack.JPG)
 
 ## 4) A video of your box in action.
