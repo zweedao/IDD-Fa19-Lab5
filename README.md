@@ -74,7 +74,7 @@ int read_encoder()
 
 ## 2) .stl or .svg files for your Jack — if you use some other technique, include the respective supporting material.
 
-[STL file](/Zwee in the Box.stl)
+[STL file](/zwee_in_box.stl)
 
 ## 3) At least one photo of your box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 
