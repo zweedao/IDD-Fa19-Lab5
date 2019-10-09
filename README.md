@@ -78,8 +78,8 @@ int read_encoder()
 
 ## 3) At least one photo of your box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 
-[Jack photo](/jack.jpg)
+[Jack photo](/jack.JPG)
 
 ## 4) A video of your box in action.
 
-[Jack video](/jack2.MOV)
+[Jack video](/jack2.mov)
